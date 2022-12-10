@@ -1,6 +1,6 @@
 # app-dev
-My first repository
-**Favorite Series**
+<h2>**Favorite Series**</h2>
+<h3>Encina</h3>
 ENCINA
 1. Breaking Bad is about a college educator who has financial problems and has a lung cancer. He decided to cook meth to collect money for his family.
 2. Peaky Blinders is about an Irish gang who were managed by 3 Shelby brothers and is making money through horse bettings and etc.
@@ -18,6 +18,7 @@ A world filled with action, bloodshed, and martial arts is shown in Yabako Sandr
 <br>
 <h2>**Favorite Series**</h2>
 <h3>CORAL</h3>
+
 4. hajime no ippo
 Teenager Ippo Makunouchi puts in a lot of effort to help his mother operate her fishing boat rental business while his father is away. Ippo is a frequent victim of merciless bullies who often beat and bruise him due to his timidity, lack of sleep, and the smell of the sea. Ippo is rescued from a violent after-school incident by upcoming fighter Mamoru Takamura, who then brings him back to the Kamogawa Boxing Gym for rehabilitation. Ippo's blows stun Takamura and his teammates fighters Masaru Aoki and Tatsuya Kimura because he has big muscles from years of working in his physically demanding family business.
 5. bleach
