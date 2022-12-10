@@ -19,8 +19,11 @@ A world filled with action, bloodshed, and martial arts is shown in Yabako Sandr
 <h2>**Favorite Series**</h2>
 <h3>CORAL</h3>
 1.hajime no ippo
+
 Teenager Ippo Makunouchi puts in a lot of effort to help his mother operate her fishing boat rental business while his father is away. Ippo is a frequent victim of merciless bullies who often beat and bruise him due to his timidity, lack of sleep, and the smell of the sea. Ippo is rescued from a violent after-school incident by upcoming fighter Mamoru Takamura, who then brings him back to the Kamogawa Boxing Gym for rehabilitation. Ippo's blows stun Takamura and his teammates fighters Masaru Aoki and Tatsuya Kimura because he has big muscles from years of working in his physically demanding family business.
 2. Bleach
+
 It centers on the exploits of a young man named Ichigo Kurosaki, who inherits his parents' fate after gaining the abilities of a Soul Reaper—a death personification akin to the Grim Reaper—from Rukia Kuchiki.
 6. jojo's bizarre adventure
+
 The supernatural powers and creatures that exist in JoJo's Bizarre Adventure's universe are a reflection of the actual world.
