@@ -13,8 +13,8 @@ Based on the Japanese novel by Kugane Maruyama, Overlord is a dark fantasy anime
 Ernesti, a programmer and mecha fan in his previous life, is reincarnated in a fantasy world where he sets out to pilot a humanoid weapon.
 3. Kengan Ashura
 A world filled with action, bloodshed, and martial arts is shown in Yabako Sandrovich's Kengan Ashura. Since the Edo Period, mighty gladiators have battled in enormous arenas to resolve the differences of strong enterprises and merchants. Ouma Tokita, often known as "The Ashura," is a fighter attempting to establish himself as the most powerful.
-**Favorite Series**
-CORAL
+<li>**Favorite Series**</li>
+<li>CORAL</li>
 4. hajime no ippo
 Teenager Ippo Makunouchi puts in a lot of effort to help his mother operate her fishing boat rental business while his father is away. Ippo is a frequent victim of merciless bullies who often beat and bruise him due to his timidity, lack of sleep, and the smell of the sea. Ippo is rescued from a violent after-school incident by upcoming fighter Mamoru Takamura, who then brings him back to the Kamogawa Boxing Gym for rehabilitation. Ippo's blows stun Takamura and his teammates fighters Masaru Aoki and Tatsuya Kimura because he has big muscles from years of working in his physically demanding family business.
 5. bleach
